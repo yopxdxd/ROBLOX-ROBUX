@@ -102,9 +102,9 @@ twitch_miner.mine(
       Streamer("skuliabii", settings=StreamerSettings(follow_raid=True , claim_drops=True  , watch_streak=True)),  
       Streamer("maniacmurky", settings=StreamerSettings(follow_raid=True , claim_drops=True  , watch_streak=True)),
       Streamer("actually_katana", settings=StreamerSettings(follow_raid=True , claim_drops=True  , watch_streak=True)),
-      Streamer("sylnaseril", settings=StreamerSettings(follow_raid=True , claim_drops=True  , watch_streak=True)), # 1 de Julio
       Streamer("delicious_frogz", settings=StreamerSettings(follow_raid=True , claim_drops=True  , watch_streak=True)), # 20 de Julio
       Streamer("aquantico_", settings=StreamerSettings(follow_raid=True , claim_drops=True  , watch_streak=True)),
+      Streamer("someRBLXRewards", settings=StreamerSettings(follow_raid=True , claim_drops=True  , watch_streak=True)),
       Streamer("lootbrawlhalla", settings=StreamerSettings(follow_raid=True , claim_drops=True  , watch_streak=True)),
       Streamer("zintid", settings=StreamerSettings(follow_raid=True , claim_drops=True  , watch_streak=True)),
       Streamer("yoshihasmytimbs", settings=StreamerSettings(follow_raid=True , claim_drops=True  , watch_streak=True)),
